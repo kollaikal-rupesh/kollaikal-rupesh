@@ -14,7 +14,7 @@ Contributing to open source voice AI infrastructure.
 - voiceping — end-to-end voice AI latency profiler (coming soon)
 
 ## Writing
-- Medium:
+- Medium: https://medium.com/@kollaikalrupesh
   
 ## Focus Areas
 Real-time voice AI · Turn detection · 
