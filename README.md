@@ -1,6 +1,6 @@
 # Kollaikal Rupesh
 
-Founding AI Engineer @ level0 inc. · San Francisco
+Founding AI Engineer @ level0 inc. · San Francisco  · https://www.github.com/kollaikal
 
 Building production voice AI systems. 
 Contributing to open source voice AI infrastructure.
