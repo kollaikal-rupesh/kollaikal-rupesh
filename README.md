@@ -15,6 +15,7 @@ Contributing to open source voice AI infrastructure.
 
 ## Writing
 - Medium: https://medium.com/@kollaikalrupesh
+- Dev Community: https://dev.to/kollaikalrupesh/hardening-pipecat-a-month-of-fixing-what-matters-44l
   
 ## Focus Areas
 Real-time voice AI · Turn detection · 
