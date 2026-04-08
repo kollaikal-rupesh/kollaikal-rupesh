@@ -10,9 +10,6 @@ Contributing to open source voice AI infrastructure.
 - livekit/agents — realtime voice AI agents
 - pipecat-ai/pipecat-flows — conversation framework
 
-## Projects
-- voiceping — end-to-end voice AI latency profiler (coming soon)
-
 ## Writing
 - Medium: https://medium.com/@kollaikalrupesh
 - Dev Community: https://dev.to/kollaikalrupesh
